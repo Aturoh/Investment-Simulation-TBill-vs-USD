@@ -9,3 +9,4 @@ Includes:
 
 🔗 The interactive calculator is available only on the article page:  
 ["Treasury Bills or Dollars: Where Should You Save?"](https://trendline.com.ng/articles/treasury-bills-or-dollars-where-should-you-save/)
+Both data-sets utilised for the project are located in the "data" folder and already referenced within each of the Python files, ensuring seamless integration with Google Colab.
